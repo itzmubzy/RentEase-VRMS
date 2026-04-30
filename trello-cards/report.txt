@@ -3,3 +3,4 @@ Role: Admin
 Feature: View Reports
 Description: Admin can view rental and payment reports
 Status: Done
+Updated report module with improvements
