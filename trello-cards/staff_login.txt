@@ -1,0 +1,6 @@
+Card ID: TC01
+Role: Staff
+Feature: Login
+Description: Staff can login with username and password
+Status: Done
+Added logout functionality
