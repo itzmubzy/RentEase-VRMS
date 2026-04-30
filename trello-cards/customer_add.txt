@@ -3,3 +3,4 @@ Role: Customer
 Feature: Add Customer
 Description: Admin can add customer details
 Status: Done
+Updated customer data validation
