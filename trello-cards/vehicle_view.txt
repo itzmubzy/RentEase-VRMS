@@ -3,3 +3,4 @@ Role: Customer
 Feature: View Vehicles
 Description: Customer can view available vehicles
 Status: Done
+Improved UI layout for vehicle display
