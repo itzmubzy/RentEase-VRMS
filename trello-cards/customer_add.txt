@@ -1,0 +1,5 @@
+Card ID: TC05
+Role: Customer
+Feature: Add Customer
+Description: Admin can add customer details
+Status: Done
