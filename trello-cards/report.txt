@@ -1,0 +1,5 @@
+Card ID: TC09
+Role: Admin
+Feature: View Reports
+Description: Admin can view rental and payment reports
+Status: Done
