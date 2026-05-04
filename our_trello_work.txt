@@ -1,5 +1,9 @@
-T05- Sajjatul Alam
-Task: Login Session
-- check user login info
-- take record of user login
+T09- Sajjatul Alam
+Task: Automatic Billing Calculation
+- rental cost calculation
+Status: Completed
+
+T010- Sajjatul Alam
+Task: View Reports
+- report generation
 Status: Completed
