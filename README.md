@@ -50,4 +50,5 @@ Tasks are managed using Trello Board and mapped into GitHub workflow through fea
 - Smoke Testing
 
 ## 📌 Status
-Project is under development 🚧
+Project is under development 🚧  <img width="1144" height="1118" alt="Screenshot 2026-05-03 223355" src="https://github.com/user-attachments/assets/136dbdcf-dd47-479a-89dd-3d42427fc5f7" />
+
